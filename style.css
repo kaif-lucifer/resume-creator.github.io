@@ -10,7 +10,7 @@
 }
 
 .background{
-    background-color:#006994 ;
+    background-color:#0089d9 ;
 }
  body{
     background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5))
@@ -18,7 +18,7 @@
     background-size: cover;
 }
 #Resume-template h1{
-    color: #006994;
+    color: #1167b1;
 }
 h1,h3,h6,label{
     color: cornsilk;
